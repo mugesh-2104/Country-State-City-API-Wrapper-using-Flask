@@ -1,4 +1,4 @@
-"""
+
 Country-State-City API Wrapper using Flask
 ==========================================
 
@@ -80,5 +80,5 @@ Example Response:
 
 👨‍💻 Author:
 ------------
-Built by [Your Name] using the public CountriesNow API.
-"""
+Built by Mugesh kannan using the public CountriesNow API.
+
